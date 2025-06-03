@@ -13,7 +13,6 @@ RUN apk add --no-cache --virtual .build-deps \
     g++ \
     make \
     php-pear \
-    php8-redis \
     bash \
     && apk add --no-cache \
     git \
