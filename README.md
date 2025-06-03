@@ -1,5 +1,7 @@
 # php8.3-fpm-alpine-imag
 
+## extensiones y lib agregadas
+
  libjpeg-turbo-dev \
     libpng-dev \
     freetype-dev \
